@@ -8,6 +8,7 @@ public class Main {
         System.out.println(reverseString("Quispe"));
 
         System.out.println("YOOOO");
+        System.out.println("TEST");
     }
     public static String reverseString(String string){
         return new StringBuilder(string).reverse().toString();
